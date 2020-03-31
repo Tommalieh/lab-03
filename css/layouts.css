@@ -1,0 +1,14 @@
+header{
+    clear: right;
+}
+
+footer{
+    clear: both;
+}
+
+main{
+    width: 100%;
+    height: fit-content;
+    margin: auto;
+    margin-left: 12%;
+}
