@@ -8,6 +8,7 @@ option, select{
 }
 
 h1{
+    width: 100%;
     font-family: 'Liu Jian Mao Cao', cursive;
     font-size: 200px;
     font-weight: bold;
@@ -19,17 +20,31 @@ h1{
     animation-timing-function: linear;
 }
 
+button{
+    margin: 1%;
+}
+
 h2{
     font-size: 35px;
     font-family: 'Courgette', cursive;
     font-weight: bold;
     margin-bottom: 15px;
+    text-transform: capitalize;
+    border: 1px solid #00000012;
+    box-shadow: 1px 1px 10px rgb(116, 112, 112);
+    border-radius: 50px;
+    height: 10%;
+    line-height: 61px;
+}
+
+h2:last-child{
+    width: 50%;
 }
 
 img{
     transition: all 0.8s ease;
-    width: 500px;
-    height: 450px;
+    width: 400px;
+    height: 350px;
     border-radius: 100%;
     margin: auto 50px;
     animation-name: shake;
@@ -38,14 +53,17 @@ img{
 	animation-iteration-count: infinite;
     animation-timing-function: linear;
     opacity: 0.7;
+    box-shadow: 1px 1px 15px black ;
+    margin-top: 10%;
 }
 
 img:hover{
     animation: none;
     opacity: 1;
-    border-radius: 0;
-    width: 550px;
-    height: 500px;
+    border-radius: 5px;
+    width: 420px;
+    height: 370px;
+    box-shadow: 1px 1px 25px black ;
 }
 
 @keyframes shake{
@@ -64,29 +82,27 @@ img:hover{
 }
 
 p{
-    width: 400px;
-    text-align: center;
-    font-size: 15px;
     text-transform: capitalize;
     font-family: 'Mali', cursive;
-    font-weight: 500;
+    align-items: center;
+    line-height: 36px;
     margin: auto;
-    margin-top: 15px;
+}
 
+#para {
+    box-shadow: 1px 1px 10px rgb(116, 112, 112);
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 10%;
+    width: 500px;
+    height: 100px;
+    overflow-y: scroll;
 }
 
 section{
-    float: left;
-    clear: right;
     text-align: center;
     margin: 50px 30px;
 }
-
-/* section:nth-child(1){
-    width: 0;
-    height: 0;
-    margin: 0;
-} */
 
 .button{
 color: #333;
