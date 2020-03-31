@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Lab-03
 
-You can use the [editor on GitHub](https://github.com/Tommalieh/lab-03/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* Number and name of feature: Feature 1: Pagination
+  * Estimate of time needed to complete: 2 hours
+  * Start time: 5:00 PM
+  * Finish time: :30 PM
+  * Actual time needed to complete: 1 hour
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* Number and name of feature: Feature 2: Templating
+  * Estimate of time needed to complete: 1.5 hours
+  * Start time: 3:30 PM
+  * Finish time: 6:00 PM
+  * Actual time needed to complete: 2.5 hours
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tommalieh/lab-03/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Number and name of feature: Feature 3: Styling with Flexbox
+  * Estimate of time needed to complete: 1.5 hours
+  * Start time: 7:30 PM
+  * Finish time: 9:30 PM
+  * Actual time needed to complete: 2 hours
+  
+  * Number and name of feature: Feature 4: Sort the images
+  * Estimate of time needed to complete: 1.5 hours
+  * Start time: 7:30 PM
+  * Finish time: 9:30 PM
+  * Actual time needed to complete: 2 hours
